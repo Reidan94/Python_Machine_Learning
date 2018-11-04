@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../02-statement-importance/.idea/02-statement-importance.iml" filepath="$PROJECT_DIR$/../02-statement-importance/.idea/02-statement-importance.iml" />
       <module fileurl="file://$PROJECT_DIR$/../03-statement-neighbours/.idea/03-statement-neighbours.iml" filepath="$PROJECT_DIR$/../03-statement-neighbours/.idea/03-statement-neighbours.iml" />
       <module fileurl="file://$PROJECT_DIR$/../04-statement-metric-tuning/.idea/04-statement-metric-tuning.iml" filepath="$PROJECT_DIR$/../04-statement-metric-tuning/.idea/04-statement-metric-tuning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" filepath="$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" />
     </modules>
   </component>
 </project>

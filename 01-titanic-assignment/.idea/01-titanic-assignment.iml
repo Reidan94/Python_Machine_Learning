@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="02-statement-importance" />
     <orderEntry type="module" module-name="03-statement-neighbours" />
     <orderEntry type="module" module-name="04-statement-metric-tuning" />
+    <orderEntry type="module" module-name="05-statement-linear" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
