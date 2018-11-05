@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/../04-statement-metric-tuning/.idea/04-statement-metric-tuning.iml" filepath="$PROJECT_DIR$/../04-statement-metric-tuning/.idea/04-statement-metric-tuning.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" filepath="$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06-statement-svm/.idea/06-statement-svm.iml" filepath="$PROJECT_DIR$/../06-statement-svm/.idea/06-statement-svm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" filepath="$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" />
     </modules>
   </component>
 </project>

@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="04-statement-metric-tuning" />
     <orderEntry type="module" module-name="05-statement-linear" />
     <orderEntry type="module" module-name="06-statement-svm" />
+    <orderEntry type="module" module-name="07-statement-svm-texts" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
