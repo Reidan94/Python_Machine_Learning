@@ -10,6 +10,8 @@
     <orderEntry type="module" module-name="05-statement-linear" />
     <orderEntry type="module" module-name="06-statement-svm" />
     <orderEntry type="module" module-name="07-statement-svm-texts" />
+    <orderEntry type="module" module-name="08-statement-logistic" />
+    <orderEntry type="module" module-name="09-statement-metrics" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" filepath="$PROJECT_DIR$/../05-statement-linear/.idea/05-statement-linear.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06-statement-svm/.idea/06-statement-svm.iml" filepath="$PROJECT_DIR$/../06-statement-svm/.idea/06-statement-svm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" filepath="$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-statement-logistic/.idea/08-statement-logistic.iml" filepath="$PROJECT_DIR$/../08-statement-logistic/.idea/08-statement-logistic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09-statement-metrics/.idea/09-statement-metrics.iml" filepath="$PROJECT_DIR$/../09-statement-metrics/.idea/09-statement-metrics.iml" />
     </modules>
   </component>
 </project>
