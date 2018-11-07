@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" filepath="$PROJECT_DIR$/../07-statement-svm-texts/.idea/07-statement-svm-texts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../08-statement-logistic/.idea/08-statement-logistic.iml" filepath="$PROJECT_DIR$/../08-statement-logistic/.idea/08-statement-logistic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../09-statement-metrics/.idea/09-statement-metrics.iml" filepath="$PROJECT_DIR$/../09-statement-metrics/.idea/09-statement-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-statement-linreg/.idea/10-statement-linreg.iml" filepath="$PROJECT_DIR$/../10-statement-linreg/.idea/10-statement-linreg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11-statement-pca/.idea/11-statement-pca.iml" filepath="$PROJECT_DIR$/../11-statement-pca/.idea/11-statement-pca.iml" />
     </modules>
   </component>
 </project>
