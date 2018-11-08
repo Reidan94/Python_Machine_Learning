@@ -34,7 +34,7 @@ y = df['Rings']
 kf = KFold(y.size, n_folds=5, shuffle=True, random_state=1)
 
 scores = [0.0]
-n_estimators = xrange(1, 50)
+n_estimators = xrange(1, 51)
 for n in n_estimators:
     model = RandomForestRegressor(n_estimators=n, random_state=1)
     score = numpy.mean(cross_val_score(model, X, y, cv=kf, scoring='r2'))
