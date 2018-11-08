@@ -14,6 +14,8 @@
     <orderEntry type="module" module-name="09-statement-metrics" />
     <orderEntry type="module" module-name="10-statement-linreg" />
     <orderEntry type="module" module-name="11-statement-pca" />
+    <orderEntry type="module" module-name="12-statement-forest" />
+    <orderEntry type="module" module-name="13-statement-gbm" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
