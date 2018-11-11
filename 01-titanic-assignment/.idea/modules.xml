@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../11-statement-pca/.idea/11-statement-pca.iml" filepath="$PROJECT_DIR$/../11-statement-pca/.idea/11-statement-pca.iml" />
       <module fileurl="file://$PROJECT_DIR$/../12-statement-forest/.idea/12-statement-forest.iml" filepath="$PROJECT_DIR$/../12-statement-forest/.idea/12-statement-forest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../13-statement-gbm/.idea/13-statement-gbm.iml" filepath="$PROJECT_DIR$/../13-statement-gbm/.idea/13-statement-gbm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14-statement-clustering/.idea/14-statement-clustering.iml" filepath="$PROJECT_DIR$/../14-statement-clustering/.idea/14-statement-clustering.iml" />
     </modules>
   </component>
 </project>

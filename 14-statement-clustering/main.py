@@ -34,7 +34,7 @@ def cluster(pixels, n_clusters=8):
 
     means = pixels.groupby('cluster').mean().values
     mean_pixels = [means[c] for c in pixels['cluster'].values]
-    mean_image = np.reshape(mean_pixels, (h, w, d))
+    mean_image = np.reshape(mean_pixels, (w, h, d))
     imsave('images/mean/parrots_' + str(n_clusters) + '.jpg', mean_image)
 
     medians = pixels.groupby('cluster').median().values
