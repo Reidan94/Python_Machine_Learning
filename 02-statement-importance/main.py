@@ -43,4 +43,5 @@ clf.fit(np.array(X.values), np.array(y.values))
 # порядок не важен).
 
 importances = pandas.Series(clf.feature_importances_, index=x_labels)
+print_answer()
 print_answer(1, ' '.join(importances.sort_values(ascending=False).head(2).index.values))
